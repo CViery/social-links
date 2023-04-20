@@ -1,1 +1,6 @@
 # social-links
+
+
+Sora (google fonts)
+Cores das fontes: #FFFFFF e #919193
+Gradiente: Linear, que vai da cor #5578BA para a cor #40A376​
